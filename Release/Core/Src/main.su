@@ -1,0 +1,5 @@
+../Core/Src/main.c:58:6:I2C_init	8	static
+../Core/Src/main.c:88:9:I2C_Sensor_Read	0	static
+../Core/Src/main.c:173:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:123:5:main	16	static
+../Core/Src/main.c:231:6:Error_Handler	0	static,ignoring_inline_asm
